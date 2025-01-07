@@ -156,3 +156,4 @@ hello , world !
 hello , world !
 hello , world !
 total 40K drwxr-xr-x 1 www 197121 0 Jan 6 10:33 ./ drwxr-xr-x 1 www 197121 0 Jan 6 09:35 ../ drwxr-xr-x 1 www 197121 0 Jan 6 11:51 .git/ -rw-r--r-- 1 www 197121 0 Jan 6 09:54 hello.c -rw-r--r-- 1 www 197121 0 Jan 6 09:53 hello.java -rw-r--r-- 1 www 197121 0 Jan 6 09:54 hello.py -rw-r--r-- 1 www 197121 0 Jan 6 10:28 hello.sh drwxr-xr-x 1 www 197121 0 Jan 6 09:36 step01/ -rw-r--r-- 1 www 197121 0 Jan 6 09:37 step02.txt -rw-r--r-- 1 www 197121 2.5K Jan 6 10:33 test.txt
+/d/gitTest
